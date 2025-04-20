@@ -865,3 +865,4 @@ class qq {
     );
   }
 }
+module.exports = qq;
